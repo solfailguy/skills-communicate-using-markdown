@@ -1,1 +1,1 @@
-###### var myVar = "First code in github by Javascript"
+var myVar = "Hello, world!";
